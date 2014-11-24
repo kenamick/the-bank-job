@@ -1,7 +1,7 @@
 _.o0 The Bank Job 0o._
 ==========================
 
-An action game where you need to escape from a maze of rooms. Made for the #indiesvspewdiepie contest.
+An action game where you need to escape from a maze of rooms. Created for the [#indiesvspewdiepie](http://jams.gamejolt.io/indiesvspewdiepie) game jam.
 
 Fed up with your boring job as a bank clerk you decide to rob the bank and spend the rest of your days on a sunny island. You've got the money and now you just need to escape without getting caught.
 
@@ -27,9 +27,4 @@ The following javascript libraries are used:
 
 ## License
 
-Copyright (c) 2014 Petar Petrov
-
-Copyright (c) 2014 Stremena Tuzsuzova-Petrova
-
----
-`The Bank Job` is part of the [Gamejolt](http://jams.gamejolt.io/indiesvspewdiepie) #indiesvspewdiepie contest.
+Check the [LICENSE](LICENSE) file.
