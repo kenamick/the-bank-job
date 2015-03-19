@@ -5,7 +5,8 @@ An action game where you need to escape from a maze of rooms. Created for the [#
 
 Fed up with your boring job as a bank clerk you decide to rob the bank and spend the rest of your days on a sunny island. You've got the money and now you just need to escape without getting caught.
 
-![The Bank Job for Gamejolt](http://i.imgur.com/Dxnw4D6.png)
+![The Bank Job for Gamejolt](http://i.imgur.com/gUqmUBR.png)
+
 
 Play it at [Gamejolt](http://goo.gl/6leAId).
 
@@ -30,3 +31,4 @@ The following javascript libraries are used:
 ## License
 
 Check the [LICENSE](LICENSE) file.
+
