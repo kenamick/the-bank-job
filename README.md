@@ -30,5 +30,5 @@ The following javascript libraries are used:
 
 ## License
 
-Check the [LICENSE](LICENSE) file.
+[CC BY-NC-SA 4.0](LICENSE)
 
